@@ -1,4 +1,3 @@
-//pa2$ ./grader.py
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
