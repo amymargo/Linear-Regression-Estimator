@@ -1,8 +1,8 @@
 ### Linear Regression Estimator in C
 ***
-A C program that performs linear regression using matrix mathematics.  
-It reads structured training data, computes model coefficients using the normal equation, and predicts outputs for new inputs.  
-This project demonstrates systems-level implementation of core ML techniques including matrix multiplication, transpose, and Gauss–Jordan matrix inversion.
+A C program that implements linear regression using matrix operations.
+It reads structured training data, computes model coefficients using the normal equation, and predicts outputs for new inputs.
+The project includes manual implementations of matrix multiplication, matrix transpose, and Gauss–Jordan elimination for matrix inversion.
 
 ### Features
 ***
